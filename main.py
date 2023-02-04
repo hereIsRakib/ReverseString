@@ -1,3 +1,4 @@
+#reverse string
 first_name,last_name,r_f_name,r_l_name='','','',''
 
 first_name=input("Please enter first name:  ")
